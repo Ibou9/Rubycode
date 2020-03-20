@@ -1,2 +1,4 @@
 a="Bonjour, monde!"
-puts a 
+puts a
+b="Et avec une voix sexy,ça donne: "
+puts b+a 
